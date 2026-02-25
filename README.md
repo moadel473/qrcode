@@ -1,0 +1,2 @@
+# qrcode
+make qrcode 
